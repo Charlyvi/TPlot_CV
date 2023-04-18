@@ -1,5 +1,5 @@
 void setup() {
-  // TP pas compris
+  // TP un peu compris
 
 }
 
